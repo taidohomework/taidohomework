@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 14.2//EN
+N:Đinh Vạn;Tài;;;
+FN:Tài Đinh Vạn
+item1.EMAIL;type=INTERNET;type=pref:vantaidinh2004@icloud.com
+item1.X-ABLabel:iCloud
+EMAIL;type=INTERNET;type=HOME:vantaidinh04@gmail.com
+TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:+84 93 7813612
+TEL;type=OTHER;type=VOICE:+84 559909105
+item2.ADR;type=HOME;type=pref:;;9A/L3 Hà Thị Khiêm;Hồ Chí Minh;Thành Phố Hồ Chí Minh;71507;Việt Nam
+item2.X-ABADR:vn
+item2.X-APPLE-SUBLOCALITY:P. Trung Mỹ Tây
+item2.X-APPLE-SUBADMINISTRATIVEAREA:Quận 12
+X-SOCIALPROFILE;type=Instagram;x-user=instagr.am/taidohomework:x-apple:taidohomework
+X-SOCIALPROFILE;type=Telegram;x-user=t.me/taidohomework:x-apple:taidohomework
+BDAY:2004-07-21
+END:VCARD
